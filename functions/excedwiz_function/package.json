@@ -1,0 +1,9 @@
+{
+	"name": "excedwiz_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "rajeshk@exceedwiz.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
